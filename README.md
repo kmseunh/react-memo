@@ -34,10 +34,10 @@
 
 ## 🖥️ 화면 구성
 
-|메인 페이지|메모 입력 Modal|
-|-------------------------|-------------------------|
+| 메인 페이지 | 타이머 페이지 |
+|:-----------:|:-------------:|
 |![image](https://github.com/kmseunh/react-checklist/assets/105186724/77e6bbf6-a092-4396-973c-d3d701522922)|![image](https://github.com/kmseunh/react-checklist/assets/105186724/886d939b-8185-42c5-8b3b-8df2b1174baa)
-|메모 리스트|
+|**메모 리스트**|
 ![image](https://github.com/kmseunh/react-checklist/assets/105186724/345d1bc6-f806-4b44-9bcc-a4a5fc630131)|
 
 &nbsp;
